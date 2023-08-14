@@ -25,13 +25,13 @@ Made for allowing you to send some domains for a friend to use without them need
 - HNSCall - A voice chat on a Handshake domain (https://hnscall)
 
 
-Some future projects:
+A few projects I would like to do:
 - Adding Wordpress hosting to HNSHosting (only problem is the system resources so this might be a paid feature) ([already created most of the script](https://github.com/Nathanwoodburn/HNS-server/blob/main/wp.sh))  
 I would estimate this would take one to four hours to complete and test.  
 This would allow most quality websites to be hosted on Handshake domains.
 More info on this can be found [here](Wordpress_Hosting.md)
 
-- Email hosting  
+- Email hosting (***for a later date***)  
 This is a bigger project which I am planning to work on over the new year break.  
 This would be a paid service, but the installation scripts will be available for free to allow anyone to host their own email server.  
 This would increase the value of Handshake domains as they would be able to be used for email addresses without the need for hours or days of setup.

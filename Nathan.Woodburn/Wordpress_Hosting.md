@@ -25,3 +25,17 @@ One line command to install all the required software (Docker and nginx)
 5. Verify that the system is working correctly and fix any bugs that may be present.
 6. Release the Wordpress hosting system to the public.
 7. Finalise the Wordpress hosting system and release the scripts to allow anyone to host their own Wordpress server. (This script will take in a Discord Bot token and set everything up for you on a new linux VPS)
+
+
+## Estimated Cost
+The cheapest servers I can find (let me know if you know of a cheaper one):
+
+Linode Nanode 1 GB - $5 USD/month
+> 1 CPU Core  
+1 GB RAM  
+25 GB Storage  
+1 TB Transfer  
+
+
+This should be able to host 4 Wordpress servers (based on the assumption that Handshake sites don't have many visitors)
+
