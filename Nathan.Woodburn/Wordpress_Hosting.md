@@ -18,13 +18,14 @@ One line command to install all the required software (Docker and nginx)
 
 
 ## Estimated project timeline
-1. Finalise the Wordpress server setup script to remove any bugs that may be present.
-2. Create a script that takes in a license key and domain and will create a Wordpress server for that domain if the license key is valid.
-3. Update the HNSHosting discord bot to allow Wordpress hosting.
-4. Test the Wordpress hosting system with a few users (by giving a few licenses away for free).
+1. Finalise the Wordpress server setup script to remove any bugs that may be present. (1-2 hrs)
+2. Create a script that takes in a license key and domain and will create a Wordpress server for that domain if the license key is valid. (1-2 hrs)
+3. Update the HNSHosting discord bot to allow Wordpress hosting. (1-2 hrs)
+4. Test the Wordpress hosting system with a few users (by giving a few licenses away for free) on a cloud VPS. (1-2 days)
 5. Verify that the system is working correctly and fix any bugs that may be present.
 6. Release the Wordpress hosting system to the public.
-7. Finalise the Wordpress hosting system and release the scripts to allow anyone to host their own Wordpress server. (This script will take in a Discord Bot token and set everything up for you on a new linux VPS)
+7. Finalise the Wordpress hosting system and release the scripts to allow anyone to host their own Wordpress server. (This script will take in a Discord Bot token and set everything up for you on a new linux VPS) (~4 hrs)
+8. Order a raspberry pi clone for self hosting to lower costs. (4 wks. not a priority for the project)
 
 
 ## Estimated Cost

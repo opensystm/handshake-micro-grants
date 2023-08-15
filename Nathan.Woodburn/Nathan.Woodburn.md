@@ -26,8 +26,7 @@ Made for allowing you to send some domains for a friend to use without them need
 
 
 A few projects I would like to do:
-- Adding Wordpress hosting to HNSHosting (only problem is the system resources so this might be a paid feature) ([already created most of the script](https://github.com/Nathanwoodburn/HNS-server/blob/main/wp.sh))  
-I would estimate this would take one to four hours to complete and test.  
+- Adding Wordpress hosting to HNSHosting (only problem is the system resources so this might be a paid feature) ([already created most of the script](https://github.com/Nathanwoodburn/HNS-server/blob/main/wp.sh))    
 This would allow most quality websites to be hosted on Handshake domains.
 More info on this can be found [here](Wordpress_Hosting.md)
 
