@@ -30,12 +30,38 @@ One line command to install all the required software (Docker and nginx)
 ## Estimated Cost
 The cheapest servers I can find (let me know if you know of a cheaper one):
 
-Linode Nanode 1 GB - $5 USD/month
+Linode Nanode 1 GB - $5 USD/month (~$7.70 AUD)
 > 1 CPU Core  
 1 GB RAM  
 25 GB Storage  
 1 TB Transfer  
+4 Sites @ $15 USD/yr (~$23 AUD)
+
+OVH VPS 1 - $5.75 AUD/month
+> 1 vCore  
+2 GB RAM  
+20 GB SSD SATA  
+4 Sites @ $17.25 AUD/yr
+
+OVH VPS 2 (VLE-2) - $196.25 AUD/yr
+> 2 vCores  
+2 GB RAM  
+20 GB SSD NVMe  
+50 GB additional storage  
+10 sites @ $20 AUD/yr
 
 
-This should be able to host 4 Wordpress servers (based on the assumption that Handshake sites don't have many visitors)
 
+
+
+
+---
+
+Alternatively, I could buy a server to host at home. I would probably grab a raspberry pi clone for around $100. Adding a SSD for storage would be about $100 for 1TB.
+
+> 2 GB Ram  
+4 CPU Cores 1.5 GHz  
+1 TB SSD Storage  
+10 sites @ $10 AUD/yr (pays off after ~2 years)
+
+Downside of this is that I would need to pay for electricity and internet in addition to it being slower than a VPS.
