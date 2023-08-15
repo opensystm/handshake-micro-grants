@@ -44,7 +44,7 @@ OVH VPS 1 - $5.75 AUD/month
 20 GB SSD SATA  
 4 Sites @ $17.25 AUD/yr
 
-OVH VPS 2 (VLE-2) - $196.25 AUD/yr
+OVH VPS 2 (VLE-2) - $196.25 AUD/yr (yearly payment has a big discount)
 > 2 vCores  
 2 GB RAM  
 20 GB SSD NVMe  
@@ -58,11 +58,14 @@ OVH VPS 2 (VLE-2) - $196.25 AUD/yr
 
 ---
 
-Alternatively, I could buy a server to host at home. I would probably grab a raspberry pi clone for around $100. Adding a SSD for storage would be about $100 for 1TB.
+Alternatively, I could buy a server to host at home. I would probably grab a raspberry pi clone for around $100.
+It would need an SSD for storage. Either:
+- $40 for a M.2 to USB adapter to use with a spare SSD I have lying around
+- $100 for an dedicated external SSD.
 
 > 2 GB Ram  
 4 CPU Cores 1.5 GHz  
 1 TB SSD Storage  
 10 sites @ $10 AUD/yr (pays off after ~2 years)
 
-Downside of this is that I would need to pay for electricity and internet in addition to it being slower than a VPS.
+Downside of this is the connection would be slower than a cloud VPS, but it would be cheaper in the long run.
