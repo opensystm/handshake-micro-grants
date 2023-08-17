@@ -53,9 +53,6 @@ OVH VPS 2 (VLE-2) - $196.25 AUD/yr (yearly payment has a big discount)
 
 
 
-
-
-
 ---
 
 Alternatively, I could buy a server to host at home. I would probably grab a raspberry pi clone for around $100.
@@ -69,3 +66,10 @@ It would need an SSD for storage. Either:
 10 sites @ $10 AUD/yr (pays off after ~2 years)
 
 Downside of this is the connection would be slower than a cloud VPS, but it would be cheaper in the long run.
+
+
+## POC
+I have already created a script to install Wordpress on a linux server.
+Here is a rough version of the system. It will be improved to allow easy deployment of additional workers and to allow easy scaling of the system.
+
+https://cloud.woodburn.au/s/wp-poc
